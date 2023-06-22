@@ -1,0 +1,6 @@
+[submodule "ms-cloud-allocation"]
+	path = ms-cloud-allocation
+	url = git@gitlab.fing.edu.uy:mrichart/ms-cloud-allocation.git
+[submodule "dc-yang"]
+	path = dc-yang
+	url = git@gitlab.fing.edu.uy:mrichart/dc-yang.git
